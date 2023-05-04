@@ -1,0 +1,23 @@
+html[dir="ltr"] .myApp .myBtn.sapMBtn {
+    margin-right: 50px;
+}
+
+html[dir="rtl"] .myApp .myBtn.sapMBtn {
+    margin-left: 50px;
+}
+
+.myApp .myText {
+    display: block;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 100px;
+    text-align: center;
+}
+
+
+.myAppDemoWTProductRating {
+	padding: 0.75rem;
+}
+.myAppDemoWTProductRating .sapMRI {
+	vertical-align: initial;
+}
